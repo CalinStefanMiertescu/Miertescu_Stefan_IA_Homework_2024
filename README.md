@@ -4,7 +4,7 @@ Pentru cele trei metode implementate pentru TSP - Traveling Salesman, am creat c
 - Least-Cost (Uniform Cost) Search
 - A* Search using Heuristic Strategy
 
-- Results
+- Results are down below: 
 
  
 ![Export_2](https://github.com/CalinStefanMiertescu/Miertescu_Stefan_IA_Homework_2024/assets/170947176/928bfec8-58cd-438b-bfa6-f469823f2907)
